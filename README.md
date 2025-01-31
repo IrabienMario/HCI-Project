@@ -1,5 +1,5 @@
 # HCI-Project
-Integrantes:
+Collaborators:
 - Cordova Martinez Ricardo
 - Irabien Rodriguez Mario
 - Magaña Flores Raul Alejandro
